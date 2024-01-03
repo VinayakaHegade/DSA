@@ -1,4 +1,4 @@
-// Array - holds collection of values and elements can be of mixed data types.
+// Array - ordered collection of values and elements can be of mixed data types.
 
 const user = [7, "vinayak", true];
 
