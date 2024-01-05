@@ -4,7 +4,7 @@
 // Searching and deleting an element faster than array.
 
 // To create a Set constructor is used
-const user = new Set(["vinayak", 1, 7]); // accepts array as optional parameter
+const user = new Set(["vinayak", 1, 7]); // accepts array as optional argument
 
 // To add a element
 user.add(4); // adds the new element at the end
